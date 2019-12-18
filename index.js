@@ -1,6 +1,19 @@
 const csv = require('csv-parser')
 const fs = require('fs')
 
+const dates = [], offences = [], boros = [], jurisdictions = [], ages = [], sexes = [], races = [];
+
+['dates', 'boros', 'jurisdictions', 'ages', 'sexes', 'races'].forEach(e => {
+  const json = require('./'+e+'.json');
+  const res = json.map((j, i) => ({id: i+1, value: j}));
+  fs.writeFileSync(e+'_new.json', JSON.stringify(res, null, 4));
+});
+
+const json = require('./offences.json');
+const res = json.map(j => ({ id: j, value: j }));
+fs.writeFileSync('offences_new.json', JSON.stringify(res, null, 4));
+
+
 const generate = ({cat, map}) => {
   const facts = [];
   let count = 0;
@@ -14,7 +27,6 @@ const generate = ({cat, map}) => {
   }, {count: 1});
   
   const create = obj => {
-    //TODO: fix hardcode
     if (!curr_date) curr_date = obj[Object.keys(map)[0]].split('/')[0];
     
     if (curr_date !== obj[Object.keys(map)[0]].split('/')[0]) {
@@ -37,21 +49,31 @@ const generate = ({cat, map}) => {
     else facts.push(inflate(obj));
   };
 
-  fs.createReadStream(cat + '.csv')
-    .pipe(csv())
-    .on('data', (data) => create(data))
-    .on('end', () => {
-      fs.writeFileSync(cat + 's/' + cat + curr_date + '.json', JSON.stringify(facts, null, 4));
+  // const lalka = require('./' + cat + 's/' + cat + '.json');
+  // const json = lalka.map(l => Object.keys(l).reduce((a, v) => {
+  //   if (map[v]) {
+  //     a[map[v]] = l[v];
+  //   } else {
+  //     a[cat+'_'+v] = l[v];
+  //   }
+  //   return a;
+  // }, {}));
+  // fs.writeFileSync(cat + 's/' + cat + '_new.json', JSON.stringify(json, null, 4));
 
-      console.log('Done!');
-      // [
-      //   { NAME: 'Daffy Duck', AGE: '24' },
-      //   { NAME: 'Bugs Bunny', AGE: '22' }
-      // ]
-    });
+  // fs.createReadStream(cat + '.csv')
+  //   .pipe(csv())
+  //   .on('data', (data) => create(data))
+  //   .on('end', () => {
+  //     fs.writeFileSync(cat + 's/' + cat + curr_date + '.json', JSON.stringify(facts, null, 4));
+  //
+  //     console.log('Done!');
+  //     // [
+  //     //   { NAME: 'Daffy Duck', AGE: '24' },
+  //     //   { NAME: 'Bugs Bunny', AGE: '22' }
+  //     // ]
+  //   });
 }
 
-const dates = [], offences = [], boros = [], jurisdictions = [], ages = [], sexes = [], races = [];
 
 // TODO: map {e: {data: [], target_name: "", getter: () => {}, setter: () => {}}}
 const qualities = [
@@ -110,15 +132,7 @@ const qualities = [
 ];
 
 
-qualities.forEach(q => generate(q));
-fs.writeFileSync('dates.json', JSON.stringify(dates, null, 4));
-fs.writeFileSync('boros.json', JSON.stringify(boros, null, 4));
-fs.writeFileSync('sexes.json', JSON.stringify(sexes, null, 4));
-fs.writeFileSync('races.json', JSON.stringify(races, null, 4));
-fs.writeFileSync('offences.json', JSON.stringify(offences, null, 4));
-fs.writeFileSync('jurisdictions.json', JSON.stringify(jurisdictions, null, 4));
-fs.writeFileSync('ages.json', JSON.stringify(ages, null, 4));
-
+// qualities.forEach(q => generate(q));
 
 const maps = [
   {
@@ -174,3 +188,5 @@ const maps = [
     },
   },
 ];
+
+// maps.forEach(q => generate(q));

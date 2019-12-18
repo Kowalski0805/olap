@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "value": "MANHATTAN"
+    },
+    {
+        "id": 2,
+        "value": "QUEENS"
+    },
+    {
+        "id": 3,
+        "value": "BRONX"
+    },
+    {
+        "id": 4,
+        "value": "BROOKLYN"
+    },
+    {
+        "id": 5,
+        "value": "STATEN ISLAND"
+    },
+    {
+        "id": 6,
+        "value": "NEW YORK"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "value": "BLACK HISPANIC"
+    },
+    {
+        "id": 2,
+        "value": "BLACK"
+    },
+    {
+        "id": 3,
+        "value": "WHITE"
+    },
+    {
+        "id": 4,
+        "value": "WHITE HISPANIC"
+    },
+    {
+        "id": 5,
+        "value": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "id": 6,
+        "value": "AMERICAN INDIAN/ALASKAN NATIVE"
+    },
+    {
+        "id": 7,
+        "value": "OTHER"
+    }
+]
