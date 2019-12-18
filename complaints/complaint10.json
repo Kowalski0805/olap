@@ -1,0 +1,4322 @@
+[
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/1975",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/1996",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2000",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2002",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2002",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2005",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2008",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2009",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2010",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2012",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2012",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2013",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2013",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2013",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2014",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2014",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2014",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2014",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "PROSTITUTION & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 11,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 19,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "BURGLARY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 23,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 8,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 10,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 4,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 18,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "AMERICAN INDIAN/ALASKAN NATIVE"
+    },
+    {
+        "count": 18,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FORGERY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 5,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 12,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 13,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 24,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 8,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 6,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 13,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT OF SERVICES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "POSSESSION OF STOLEN PROPERTY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "UNAUTHORIZED USE OF A VEHICLE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 27,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST PUBLIC ADMINI",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/1977",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/1998",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2012",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "UNAUTHORIZED USE OF A VEHICLE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MURDER & NON-NEGL. MANSLAUGHTER",
+        "BORO_NM": "",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 6,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ROBBERY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "BURGLARY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "DANGEROUS DRUGS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "DANGEROUS DRUGS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MURDER & NON-NEGL. MANSLAUGHTER",
+        "BORO_NM": "",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2014",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 5,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "POSSESSION OF STOLEN PROPERTY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT OF SERVICES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2014",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST THE PERSON",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 6,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 4,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST PUBLIC ADMINI",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 9,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST PUBLIC ADMINI",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 13,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FORGERY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ADMINISTRATIVE CODE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2010",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 5,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "FORGERY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "DANGEROUS DRUGS",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY OF MOTOR VEHICLE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "DANGEROUS DRUGS",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY OF MOTOR VEHICLE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PROSTITUTION & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY OF MOTOR VEHICLE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FORGERY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES INVOLVING FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "UNAUTHORIZED USE OF A VEHICLE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MURDER & NON-NEGL. MANSLAUGHTER",
+        "BORO_NM": "",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 5,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/1992",
+        "OFNS_DESC": "MURDER & NON-NEGL. MANSLAUGHTER",
+        "BORO_NM": "",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2013",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY OF MOTOR VEHICLE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "BURGLARY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST PUBLIC ADMINI",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "DANGEROUS DRUGS",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2006",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT OF SERVICES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2011",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PROSTITUTION & RELATED OFFENSES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "DANGEROUS DRUGS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ROBBERY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ARSON",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "65+",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "AMERICAN INDIAN/ALASKAN NATIVE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2002",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT OF SERVICES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST PUBLIC ADMINI",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ADMINISTRATIVE CODE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2009",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "UNAUTHORIZED USE OF A VEHICLE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT OF SERVICES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT OF SERVICES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "UNAUTHORIZED USE OF A VEHICLE",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "UNAUTHORIZED USE OF A VEHICLE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 3,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "THEFT OF SERVICES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ARSON",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST PUBLIC ADMINI",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2012",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2012",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2014",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2015",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2012",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2013",
+        "OFNS_DESC": "DANGEROUS DRUGS",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2016",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FELONY ASSAULT",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFFENSES AGAINST PUBLIC ADMINI",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "ASIAN / PACIFIC ISLANDER"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2011",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "SEX CRIMES",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "CRIMINAL MISCHIEF & RELATED OF",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "NYS LAWS-UNCLASSIFIED FELONY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2013",
+        "OFNS_DESC": "THEFT-FRAUD",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "OTHER OFFENSES RELATED TO THEF",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "U",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2017",
+        "OFNS_DESC": "GRAND LARCENY OF MOTOR VEHICLE",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "",
+        "SUSP_SEX": "",
+        "SUSP_RACE": ""
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "OFF. AGNST PUB ORD SENSBLTY &",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "MISCELLANEOUS PENAL LAW",
+        "BORO_NM": "QUEENS",
+        "SUSP_AGE_GROUP": "45-64",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 2,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "HARRASSMENT 2",
+        "BORO_NM": "STATEN ISLAND",
+        "SUSP_AGE_GROUP": "<18",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "18-24",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "GRAND LARCENY",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "PETIT LARCENY",
+        "BORO_NM": "BRONX",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "ASSAULT 3 & RELATED OFFENSES",
+        "BORO_NM": "MANHATTAN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "RAPE",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "UNKNOWN",
+        "SUSP_SEX": "M",
+        "SUSP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "CMPLNT_FR_DT": "10/2018",
+        "OFNS_DESC": "FRAUDS",
+        "BORO_NM": "BROOKLYN",
+        "SUSP_AGE_GROUP": "25-44",
+        "SUSP_SEX": "F",
+        "SUSP_RACE": "BLACK HISPANIC"
+    }
+]
