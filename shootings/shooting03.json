@@ -1,0 +1,210 @@
+[
+    {
+        "count": 16,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BROOKLYN",
+        "PERP_AGE_GROUP": "",
+        "PERP_SEX": "",
+        "PERP_RACE": ""
+    },
+    {
+        "count": 6,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BROOKLYN",
+        "PERP_AGE_GROUP": "18-24",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 3,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BRONX",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BRONX",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 4,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "QUEENS",
+        "PERP_AGE_GROUP": "",
+        "PERP_SEX": "",
+        "PERP_RACE": ""
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "QUEENS",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 2,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "MANHATTAN",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 6,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BRONX",
+        "PERP_AGE_GROUP": "",
+        "PERP_SEX": "",
+        "PERP_RACE": ""
+    },
+    {
+        "count": 2,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "QUEENS",
+        "PERP_AGE_GROUP": "18-24",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BRONX",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK HISPANIC"
+    },
+    {
+        "count": 3,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BROOKLYN",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BRONX",
+        "PERP_AGE_GROUP": "18-24",
+        "PERP_SEX": "M",
+        "PERP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BRONX",
+        "PERP_AGE_GROUP": "<18",
+        "PERP_SEX": "M",
+        "PERP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 2,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BRONX",
+        "PERP_AGE_GROUP": "18-24",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 2,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "MANHATTAN",
+        "PERP_AGE_GROUP": "",
+        "PERP_SEX": "",
+        "PERP_RACE": ""
+    },
+    {
+        "count": 3,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "MANHATTAN",
+        "PERP_AGE_GROUP": "<18",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BROOKLYN",
+        "PERP_AGE_GROUP": "18-24",
+        "PERP_SEX": "M",
+        "PERP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "MANHATTAN",
+        "PERP_AGE_GROUP": "18-24",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "QUEENS",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "U",
+        "PERP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "QUEENS",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BROOKLYN",
+        "PERP_AGE_GROUP": "45-64",
+        "PERP_SEX": "M",
+        "PERP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "STATEN ISLAND",
+        "PERP_AGE_GROUP": "18-24",
+        "PERP_SEX": "M",
+        "PERP_RACE": "WHITE"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BROOKLYN",
+        "PERP_AGE_GROUP": "<18",
+        "PERP_SEX": "M",
+        "PERP_RACE": "UNKNOWN"
+    },
+    {
+        "count": 3,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "QUEENS",
+        "PERP_AGE_GROUP": "25-44",
+        "PERP_SEX": "M",
+        "PERP_RACE": "WHITE HISPANIC"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "MANHATTAN",
+        "PERP_AGE_GROUP": "UNKNOWN",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    },
+    {
+        "count": 1,
+        "OCCUR_DATE": "03/2019",
+        "BORO": "BROOKLYN",
+        "PERP_AGE_GROUP": "<18",
+        "PERP_SEX": "M",
+        "PERP_RACE": "BLACK"
+    }
+]
