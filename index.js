@@ -2,17 +2,17 @@ const csv = require('csv-parser')
 const fs = require('fs')
 const results = [];
 
-const cat = 'complaint';
+const cat = 'court';
 const facts = [];
 const dates = [], offences = [], boros = [], precincts = [], perp_ages = [], persp_sexes = [], perp_races = [];
 const map = {
-  CMPLNT_FR_DT: dates,
-  OFNS_DESC: offences,
-  BORO_NM: boros,
+  SUMMONS_DATE: dates,
+  OFFENSE_DESCRIPTION: offences,
+  BORO: boros,
   // ARREST_PRECINCT: precincts,
-  SUSP_AGE_GROUP: perp_ages,
-  SUSP_SEX: persp_sexes,
-  SUSP_RACE: perp_races,
+  AGE_GROUP: perp_ages,
+  SEX: persp_sexes,
+  RACE: perp_races,
 };
 
 const check = (fact, obj) => Object.keys(map).every(field => fact[field] == obj[field]);
@@ -25,14 +25,14 @@ const inflate = obj => Object.keys(map).reduce((acc, field) => {
 let curr_date;
 let count = 0;
 const create = obj => {
-  if (!curr_date) curr_date = obj.CMPLNT_FR_DT.split('/')[0];
-  if (curr_date !== obj.CMPLNT_FR_DT.split('/')[0]) {
+  if (!curr_date) curr_date = obj.SUMMONS_DATE.split('/')[0];
+  if (curr_date !== obj.SUMMONS_DATE.split('/')[0]) {
     fs.writeFileSync(cat + curr_date + '.json', JSON.stringify(facts, null, 4));
     facts.length = 0;
-    curr_date = obj.CMPLNT_FR_DT.split('/')[0];
+    curr_date = obj.SUMMONS_DATE.split('/')[0];
   }
 
-  obj.CMPLNT_FR_DT = obj.CMPLNT_FR_DT.replace(/\/../, '');
+  obj.SUMMONS_DATE = obj.SUMMONS_DATE.replace(/\/../, '');
 
   for (const field in map) {
     if (!map[field].includes(obj[field])) map[field].push(obj[field]);
