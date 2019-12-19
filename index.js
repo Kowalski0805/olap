@@ -1,17 +1,7 @@
 const csv = require('csv-parser')
 const fs = require('fs')
 
-const dates = [], offences = [], boros = [], jurisdictions = [], ages = [], sexes = [], races = [];
-
-['dates', 'boros', 'jurisdictions', 'ages', 'sexes', 'races'].forEach(e => {
-  const json = require('./'+e+'.json');
-  const res = json.map((j, i) => ({id: i+1, value: j}));
-  fs.writeFileSync(e+'_new.json', JSON.stringify(res, null, 4));
-});
-
-const json = require('./offences.json');
-const res = json.map(j => ({ id: j, value: j }));
-fs.writeFileSync('offences_new.json', JSON.stringify(res, null, 4));
+const [dates, offences, boros, jurisdictions, ages, sexes, races] = ['dates', 'offences', 'boros', 'jurisdictions', 'ages', 'sexes', 'races'].map(e => require('./'+e+'_new.json'));
 
 
 const generate = ({cat, map}) => {
@@ -27,19 +17,19 @@ const generate = ({cat, map}) => {
   }, {count: 1});
   
   const create = obj => {
-    if (!curr_date) curr_date = obj[Object.keys(map)[0]].split('/')[0];
+    // if (!curr_date) curr_date = obj[Object.keys(map)[0]].split('/')[0];
     
-    if (curr_date !== obj[Object.keys(map)[0]].split('/')[0]) {
-      fs.writeFileSync(cat + 's/' + cat + curr_date + '.json', JSON.stringify(facts, null, 4));
-      facts.length = 0;
-      curr_date = obj[Object.keys(map)[0]].split('/')[0];
-    }
+    // if (curr_date !== obj[Object.keys(map)[0]].split('/')[0]) {
+    //   fs.writeFileSync(cat + 's/' + cat + curr_date + '.json', JSON.stringify(facts, null, 4));
+    //   facts.length = 0;
+    //   curr_date = obj[Object.keys(map)[0]].split('/')[0];
+    // }
 
-    obj[Object.keys(map)[0]] = obj[Object.keys(map)[0]].replace(/\/../, '');
+    // obj[Object.keys(map)[0]] = obj[Object.keys(map)[0]].replace(/\/../, '');
 
-    for (const field in map) {
-      if (!map[field].includes(obj[field])) map[field].push(obj[field]);
-    }
+    // for (const field in map) {
+    //   if (!map[field].includes(obj[field])) map[field].push(obj[field]);
+    // }
     
     count++;
     console.log(cat, ': ', count);
@@ -189,4 +179,46 @@ const maps = [
   },
 ];
 
+const result = [];
+
+const fields = {
+  'month': dates,
+  'boro': boros,
+  'jurisdiction': jurisdictions,
+  'perp_age': ages,
+  'perp_sex': sexes,
+  'perp_race': races,
+  'vict_age': ages,
+  'vict_sex': sexes,
+  'vict_race': races
+};
+
+const inter = (a, b) => Object.keys(fields).every(e => a[e] === b[e]);
+
+const find = obj => result.findIndex(e => inter(obj, e))
+
+const clear = obj => Object.keys(fields).reduce((a, v) => {
+  const qual = fields[v].find(x => x.value === a[v]);
+  if (!a[v] || !qual) a[v] = null;
+  else a[v] = qual.id;
+  return a;
+}, obj);
+
+const iter = (arr, j) => {
+  arr.forEach((e, k) => {
+    console.log(j, ': ', k);
+    const obj = clear(e);
+    const i = find(obj);
+    if (i !== -1) result[i] = Object.assign({}, result[i], obj);
+    else result.push(obj); 
+  });
+};
+
+const f = ['arrest', 'complaint', 'court', 'shooting'].map(e => require('./' + e + 's/' + e + '_new.json'));
+f.forEach((e, i) => {
+  iter(e, i);
+});
+
+fs.writeFileSync('super.json', JSON.stringify(result, null, 4));
+console.log('Finished!');
 // maps.forEach(q => generate(q));
